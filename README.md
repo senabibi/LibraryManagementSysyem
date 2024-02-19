@@ -157,8 +157,8 @@ _Below are the instructions for installing and setting up your library managemen
   *PyQt5
   *You can install them using the following commands:
    ```sh
-   pip install python
-   pip install PyQt5
+      pip install python
+      pip install PyQt5
 
    ```
 
