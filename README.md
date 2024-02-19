@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/senabibi/LibraryManagementSysyem">
-    <img src="https://github.com/senabibi/LibraryManagementSysyem/blob/main/logo.jpeg" alt="Logo" width="80" height="80">
+    <img src="https://github.com/senabibi/LibraryManagementSysyem/blob/main/logo.jpeg" alt="Logo" width="800" height="200">
   </a>
 
   <h3 align="center">LibraryManagementSysyem</h3>
