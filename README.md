@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/senabibi/LibraryManagementSysyem">
-    <img src="https://github.com/senabibi/LibraryManagementSysyem/blob/main/logo.jpeg" alt="Logo" width="800" height="400">
+    <img src="your-image-path/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">LibraryManagementSysyem</h3>
@@ -85,7 +85,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]([https://example.com](https://github.com/senabibi/LibraryManagementSysyem/blob/main/logo.jpeg))
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 "LibraryManagementSystem" is a dedicated application designed for library management. This project provides an interface for adding, deleting, and listing books. Users can enter basic information about books, such as the title, author, release date, and page count, save this information to a file, and later access it when needed.
 
 The application is developed using the PyQt5 library, offering a powerful graphical interface and a user-friendly experience. The "LibraryManagementSystem" project aims to make library management more organized and manageable, facilitating the tracking of books.
@@ -265,8 +265,6 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/senabibi/LibraryManagementSysyem.svg?style=for-the-badge
 [contributors-url]: https://github.com/senabibi/LibraryManagementSysyem/graphs/contributors
-
-
 
 [forks-shield]: https://img.shields.io/github/forks/senabibi/LibraryManagementSysyem.svg?style=for-the-badge
 [forks-url]: https://github.com/senabibi/LibraryManagementSysyem/network/members
