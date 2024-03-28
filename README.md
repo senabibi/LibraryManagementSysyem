@@ -36,7 +36,7 @@
   <h3 align="center">LibraryManagementSysyem</h3>
 
   <p align="center">
-    PyQt5 kullanılarak geliştirilmiş, kullanıcı dostu bir kütüphane yönetim sistemidir. Bu uygulama, kitap eklemeyi, silmeyi ve mevcut kitapları listelemeyi sağlar. Ayrıca, kitap bilgilerini dosyaya kaydederek temel bir kataloglama özelliği sunar. "LibraryManagementSystem," PyQt5'in güçlü grafik kullanıcı arayüzü yetenekleriyle birleşerek kütüphane yönetimini kolay ve etkili hale getirir.
+   It is a  library management system developed using PyQt5. This application allows adding, deleting books and listing existing books. It also offers a basic cataloging feature by saving book information to file. "LibraryManagementSystem," combined with PyQt5's powerful graphical user interface capabilities, makes library management easy and effective.
     <br />
     <a href="https://github.com/senabibi/LibraryManagementSysyem"><strong>Explore the docs »</strong></a>
     <br />
